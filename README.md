@@ -9,7 +9,7 @@
 <img align="left" height="200" style="margin:2px" src="https://media.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif"/>
 
 <p align="left">
-  &nbsp&nbsp&nbsp&nbspIn my spare time, I am a student of Web Development on my own, and I will continue &nbsp&nbsp&nbsp preparing to become a Web Developer 👩‍💻🤞.
+  &nbsp&nbsp&nbsp&nbspIn my spare time, I am a student of Web Development on my own, and I will continue &nbsp&nbsp&nbsp&nbsp preparing to become a Web Developer 👩‍💻🤞.
 </p>
 <p>
   &nbsp&nbsp&nbsp- 📚 I’m currently learning React.<br>
