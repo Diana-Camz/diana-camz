@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif"/>
+<img align="left" height="200" style="margin:2px" src="https://media.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif"/>
 
 <p align="left">
   &nbsp&nbspIn my spare time, I am a student of Web Development on my own, and I will continue preparing to become a Web Developer 👩‍💻🤞.
@@ -15,7 +15,7 @@
   &nbsp&nbsp&nbsp- 📚 I’m currently learning React.<br>
   &nbsp&nbsp&nbsp- 👀 I'm interested in learn Vite.<br>
   &nbsp&nbsp&nbsp- ⭐ Motivational phrase: <em>"The only mistake I can make is not trying"</em>.<br>
-  &nbsp&nbsp&nbsp- 📬 How to reach me: dcampos0495@gmail.com<br><br><br><br>
+  &nbsp&nbsp&nbsp- 📬 How to reach me: dcampos0495@gmail.com<br><br>
   You can see the projects I've done so far!</p>
 
 ###
