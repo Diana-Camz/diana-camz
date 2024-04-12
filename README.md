@@ -12,7 +12,7 @@
   &nbsp&nbsp&nbsp&nbsp&nbspIn my spare time, I am a student of Web Development on my own, and I will continue &nbsp&nbsp&nbsp&nbsp preparing to become a Web Developer 👩‍💻🤞.
 </p>
 <p>
-  &nbsp&nbsp&nbsp- 📚 I’m currently learning React.<br>
+  &nbsp&nbsp&nbsp- 📚 I’m currently learning React Native.<br>
   &nbsp&nbsp&nbsp- 👀 I'm interested in learn Vite.<br>
   &nbsp&nbsp&nbsp- ⭐ Motivational phrase: <em>"The only mistake I can make is not trying"</em>.<br>
   &nbsp&nbsp&nbsp- 📬 How to reach me: dcampos0495@gmail.com<br><br>
