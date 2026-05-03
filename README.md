@@ -7,7 +7,7 @@
 </div>
 <br/>
 <h1>Tools I've used</h1>
-<img src="https://skillicons.dev/icons?i=js,react,typescript,firebase,html,css,git,figma,sass,gulp,ubuntu,nodejs,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,typescript,firebase,html,css,tailwind,git,figma,sass,ubuntu,mysql&theme=dark"/>
 
 
 
