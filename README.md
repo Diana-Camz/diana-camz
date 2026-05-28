@@ -1,13 +1,29 @@
-- Hi, I'm Diana Campos
+# Hi, I'm Diana Campos
 
-<div>
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=diana-camz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
-  <img align="right" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diana-camz&layout=compact&langs_count=16&theme=radical"/>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diana-camz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diana-camz&layout=compact&langs_count=8&theme=radical"/>
+
 </div>
-<br/>
-<h1>Tools I've used</h1>
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,typescript,firebase,html,css,tailwind,git,figma,sass,ubuntu,mysql&theme=dark"/>
 
+---
 
+## Currently Learning
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,java,spring,react,nextjs,nodejs,firebase,mysql,postgres,tailwind,html,css,git,github,ubuntu&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+    <h2>✨ Good to see you here! ✨</h2>
+  <p>Thanks for visiting</p>
+<img height="220" src="https://media.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif"/>
+</div>
+
+---
