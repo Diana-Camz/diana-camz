@@ -10,18 +10,18 @@
 
 ---
 
-## Currently Learning
+### Currently Learning
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,java,spring,react,nextjs,nodejs,firebase,mysql,postgres,tailwind,html,css,git,github,ubuntu&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,java,spring,react,nextjs,nodejs,firebase,mysql,postgres,tailwind,html,css,git,github,ubuntu&theme=dark&perline=8" height="80"/>
 
 </div>
 
 ---
 
 <div align="center">
-    <h2>✨ Good to see you here! ✨</h2>
+    <h3>✨ Good to see you here! ✨</h3>
   <p>Thanks for visiting</p>
 <img height="220" src="https://media.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif"/>
 </div>
