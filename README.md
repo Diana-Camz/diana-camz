@@ -25,5 +25,3 @@
   <p>Thanks for visiting</p>
 <img height="220" src="https://media.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif"/>
 </div>
-
----
