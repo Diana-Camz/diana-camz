@@ -21,7 +21,6 @@
 ---
 
 <div align="center">
-    <h3>✨ Good to see you here! ✨</h3>
-  <p>Thanks for visiting</p>
+    <h3> Good to see you here !! </h3>
 <img height="220" src="https://media.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif"/>
 </div>
